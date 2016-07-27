@@ -1,0 +1,18 @@
+body
+{
+    background-color:lightblue;
+    font-family: "Courier New", Courier, monospace;
+    text-align: center;
+    font-size: 400%;
+    line-height: 1;
+}
+
+p
+{
+    font-size: 70%
+}
+
+script
+{
+    text-align: left
+}
